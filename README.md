@@ -5,6 +5,6 @@ Explanation : https://www.learn2crack.com/2016/04/android-login-registration-php
 
 Reset password by email functionality is added in the branch reset-password.
 
-Download [PHPMailer][1] and place in learn2crack-login-register->PHPMailer
+To use reset password Download [PHPMailer][1] and place in learn2crack-login-register-> PHPMailer
 
 [1]:https://github.com/PHPMailer/PHPMailer
